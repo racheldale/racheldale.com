@@ -1,0 +1,23 @@
+body {
+	background-image: url('OOerEB.png');
+	background-repeat: repeat;
+}
+
+.container {
+	background-color: white;
+	margin-top: 50px;
+	padding: 20px;
+}
+
+h1 {
+	color: #614E73;
+}
+
+h3.underlined {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+}
+
+a:hover {
+	text-decoration: none;
+}
